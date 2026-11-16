@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0f3d45"/>
+  <g transform="translate(256,246)">
+    <rect x="-150" y="-118" width="300" height="214" rx="46" fill="#155560" stroke="#fffaf0" stroke-width="16"/>
+    <path d="M-62 96 L-86 158 L8 96 Z" fill="#155560" stroke="#fffaf0" stroke-width="16" stroke-linejoin="round"/>
+    <rect x="-62" y="88" width="78" height="22" fill="#155560"/>
+    <text x="-74" y="34" font-family="Lilita One" font-size="150" fill="#ffcb3d" text-anchor="middle">A</text>
+    <text x="66" y="34" font-family="Lilita One" font-size="150" fill="#5cc2ff" text-anchor="middle">a</text>
+  </g>
+</svg>
